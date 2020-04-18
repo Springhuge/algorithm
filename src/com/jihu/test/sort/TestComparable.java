@@ -1,4 +1,4 @@
-package com.jihu.test;
+package com.jihu.test.sort;
 
 import java.util.Comparator;
 
